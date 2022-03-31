@@ -2,7 +2,7 @@
 
 a=10
 b=20
-if ( &a == $b )
+if ( $a == $b )
 then
 echo "both are same "
 else 
